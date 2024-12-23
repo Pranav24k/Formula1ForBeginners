@@ -1,0 +1,42 @@
+<resources>
+    <string name="app_name">f1beginnerproject</string>
+    <string name="day_1_title"> Introduction to F1</string>
+    <string name="day_1_content">Formula 1 (F1) is the world’s most popular motorsport, known for its fast cars, talented drivers, and exciting races. It’s a sport where technology, teamwork, and strategy come together to compete for the championship.Whether you are watching cars zoom at over 200 mph or witnessing intense rivalries F1 is all about speed and precision.</string>
+    <string name="day_1_reference">"It's lights out, and away we go!" – David Croft</string>
+
+    <string name="day_2_title"> History of F1</string>
+    <string name="day_2_content">F1 has been around since the 1950s, and over the years, it has grown into one of the most thrilling sports in the world. From legendary drivers to iconic races, F1 has a rich history filled with exciting moments and breakthroughs in technology. Understanding the past of F1 helps appreciate how it has become the sport we love today.</string>
+    <string name="day_2_reference">"Back in the day, F1 drivers had to drive without fancy tech. Now they can get a coffee while driving." — Max Verstappen</string>
+
+    <string name="day_3_title"> F1 Circuits</string>
+    <string name="day_3_content">F1 races take place on a variety of tracks around the world. Some tracks are built just for racing, while others, like the Monaco Grand Prix, are on the streets of famous cities. Each circuit offers its own challenges for drivers and plays a big role in deciding the outcome of each race. </string>
+    <string name="day_3_reference">"That moment when the race track looks more like a rally stage… and you are driving on it at 300km/h!" — Daniel Ricciardo</string>
+
+    <string name="day_4_title"> F1 Cars</string>
+    <string name="day_4_content">F1 cars are the fastest and most advanced racing machines on the planet. They are designed to be lightweight, super-fast, and easy to handle at extreme speeds. With powerful engines, sleek designs, and high-tech features, F1 cars push the limits of speed and safety.</string>
+    <string name="day_4_reference">"It is not just a car; it is a rocket ship."</string>
+
+    <string name="day_5_title"> Teams in F1</string>
+    <string name="day_5_content">F1 isn’t just about the drivers; it’s also about the teams behind the scenes. Top teams like Ferrari, Mercedes, and Red Bull have some of the best engineers and mechanics working to make their cars the fastest. Each team has its own strengths and strategies, making the competition fierce.</string>
+    <string name="day_5_reference">“Ferrari fans every season: This is our year!”</string>
+
+    <string name="day_6_title"> Drivers</string>
+    <string name="day_6_content">F1 drivers are elite athletes who race at speeds over 200 mph. They need to be physically fit and mentally sharp to stay focused during long and intense races. The best drivers have become legends, and their skill on the track is what makes the sport so exciting to watch.</string>
+    <string name="day_6_reference">"SMOOOOTH OPERATOR"</string>
+
+    <string name="day_7_title"> Race Weekend Format</string>
+    <string name="day_7_content">An F1 race weekend consists of three main parts: practice, qualifying, and the race. During practice, drivers test their cars to make sure they’re ready. In qualifying, they race to get the fastest lap time to determine their starting position. The race itself is the main event where the winner is crowned.</string>
+    <string name="day_7_reference">"We look like rockstars! But we are a racing team, not a rock band." – Guenther Steiner </string>
+
+    <string name="day_8_title"> Scoring System</string>
+    <string name="day_8_content">In F1, points are awarded to drivers and teams based on where they finish in each race. The higher they place, the more points they earn. Over the season, these points add up to determine who wins the championship. Consistency is key to winning, as even a few bad races can make a big difference.</string>
+    <string name="day_8_reference">"It is like chess at 200 miles per hour."</string>
+
+    <string name="day_9_title"> Safety in F1</string>
+    <string name="day_9_content">Safety is a top priority in F1. Over the years, the sport has introduced many technologies and rules to protect drivers, including safer cars, stronger helmets, and protective barriers on the tracks. Innovations like the Halo device help protect drivers during crashes, ensuring they stay as safe as possible.</string>
+    <string name="day_9_reference"> "I saw death coming. But now I can race again.” – Romain Grosjean</string>
+
+    <string name="day_10_title"> Recap and Next Steps</string>
+    <string name="day_10_content">You’ve learned the basics of F1! Now that you know the sport’s history, the cars, the teams, and how races work, it’s time to dive deeper. Watch some races, follow your favorite teams or drivers, and keep exploring all the exciting aspects of Formula 1 racing!</string>
+    <string name="day_10_reference">PRO TIP : Watch Drive to Survive</string>
+</resources>
