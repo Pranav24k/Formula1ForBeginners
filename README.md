@@ -1,2 +1,9 @@
 # Formula1ForBeginners
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Just finished developing an Android app about <a href="https://twitter.com/hashtag/Formula1?src=hash&amp;ref_src=twsrc%5Etfw">#Formula1</a> for newcomers! 🏁<br>10 interactive cards with essential <a href="https://twitter.com/hashtag/F1?src=hash&amp;ref_src=twsrc%5Etfw">#F1</a> knowledge<br>Built with <a href="https://twitter.com/hashtag/Kotlin?src=hash&amp;ref_src=twsrc%5Etfw">#Kotlin</a> &amp; <a href="https://twitter.com/hashtag/MaterialDesign?src=hash&amp;ref_src=twsrc%5Etfw">#MaterialDesign</a><br>Smooth scrolling using <a href="https://twitter.com/hashtag/LazyColumn?src=hash&amp;ref_src=twsrc%5Etfw">#LazyColumn</a> &amp; Light/Dark Themes <a href="https://t.co/BdTwCfnZ3o">pic.twitter.com/BdTwCfnZ3o</a></p>&mdash; Pranav Kataria (@PranavKataria24) <a href="https://twitter.com/PranavKataria24/status/1864731007162749111?ref_src=twsrc%5Etfw">December 5, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+Just finished developing an Android app about [#Formula1](https://twitter.com/hashtag/Formula1?src=hash&ref_src=twsrc%5Etfw) for newcomers! 🏁  
+10 interactive cards with essential [#F1](https://twitter.com/hashtag/F1?src=hash&ref_src=twsrc%5Etfw) knowledge  
+Built with [#Kotlin](https://twitter.com/hashtag/Kotlin?src=hash&ref_src=twsrc%5Etfw) & [#MaterialDesign](https://twitter.com/hashtag/MaterialDesign?src=hash&ref_src=twsrc%5Etfw)  
+Smooth scrolling using [#LazyColumn](https://twitter.com/hashtag/LazyColumn?src=hash&ref_src=twsrc%5Etfw) & Light/Dark Themes  
+
+![Formula1 App Preview](https://pbs.twimg.com/media/BdTwCfnZ3o.jpg)  
+[View the Tweet](https://twitter.com/PranavKataria24/status/1864731007162749111)
