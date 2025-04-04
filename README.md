@@ -29,4 +29,4 @@ Welcome to **F1 for Beginners** — an Android app designed to help newcomers un
 Clone the project and open it in Android Studio:
 
 ```bash
-git clone https://github.com/Pranav24K/Formula1ForBeginners.git
+git clone https://github.com/Pranav24k/Formula1ForBeginners.git
