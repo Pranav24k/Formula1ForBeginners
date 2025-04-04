@@ -1,6 +1,6 @@
 # 🏎️ F1 for Beginners
 
-Welcome to **F1 for Beginners** — an Android app designed to help newcomers understand the basics of **Formula 1** in a simple, clean, and interactive way!
+Welcome to **F1 for Beginners** — an Android app designed to help newcomers understand the basics of **Formula 1** in a simple, clean, and interactive cards
 
 ## 📱 Features
 
@@ -29,4 +29,4 @@ Welcome to **F1 for Beginners** — an Android app designed to help newcomers un
 Clone the project and open it in Android Studio:
 
 ```bash
-git clone https://github.com/your-username/f1-for-beginners.git
+git clone https://github.com/Pranav24K/Formula1ForBeginners.git
